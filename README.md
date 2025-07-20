@@ -46,3 +46,5 @@ all within a smooth and cleanly coded interface. This project is an excellent st
 learning management system (LMS) with user authentication, quizzes, real-time progress tracking, and more in the future.
 
 # output
+
+<img width="1914" height="1010" alt="Image" src="https://github.com/user-attachments/assets/e6b7d9de-9bb9-4723-a34b-f1bca4c0da4a" />
